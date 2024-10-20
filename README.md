@@ -32,14 +32,14 @@ You are given an image which contains multiple headings and subheadings, perform
 ## Sample Input and output
 ### Input 
 ![image](https://github.com/user-attachments/assets/e5695bba-0dfa-4144-8c09-1cabf8096b3e)
-### Output
-```json
-{
-  "Ashoka Chakra": "Dharma Chakra (Wheel of Law)",
-  "Saffron": "Represents strength and courage",
-  "Green": "Represents fertility, growth, and auspiciousness of the land",
-  "White": "Symbolizes peace and truth"
-}
+    ### Output
+    ```json
+    {
+    "Ashoka Chakra": "Dharma Chakra (Wheel of Law)",
+    "Saffron": "Represents strength and courage",
+    "Green": "Represents fertility, growth, and auspiciousness of the land",
+    "White": "Symbolizes peace and truth"
+    }
 ```
 ### The Task
 - Take the Image `sample.jpeg` present in this repository
